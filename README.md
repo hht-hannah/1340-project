@@ -6,7 +6,8 @@
 
 Idea 3: Cash register system
 
-**Program Statement: Shorten the grocery store waiting line for cashiers and maximize the profit.**
+**Program Statement:** 
+Shorten the grocery store waiting line for cashiers and maximize the profit.
 
 **Program Setting:**
 There is one line of customers with grocery waiting in line for the cashiers. The more the grocery one customer has, the time it takes to spend at the register will be longer. If the waiting time is longer than 15 minutes, the customers will leave without buying anything. Opening a new register costs an activation fee. 
