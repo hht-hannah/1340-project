@@ -1,9 +1,11 @@
 # 1340-project
 1340 project stage 1
+
 -Huang Hanting(3035534581)
 -Zhong Yan(3035533989)
 
 Idea 3: Cash register system
+
 **Program Statement: Shorten the grocery store waiting line for cashiers and maximize the profit.**
 
 **Program Setting:**
