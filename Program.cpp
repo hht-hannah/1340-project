@@ -7,7 +7,9 @@ struct customer{
   double profit;
   int item_no;
 };
-void readlist(){}
+void readlist(){
+  ifstream 
+}
 
 void generate_random(){}
 
